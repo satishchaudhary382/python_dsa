@@ -18,5 +18,6 @@ def brute_force_duplicate(array):
             else:
                 return False
 
+# Give the sample data 
 array =  [1,2,32,98,61,34,46]
 print(brute_force_duplicate(array))
